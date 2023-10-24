@@ -31,12 +31,10 @@ Before using this POS system, you need to have the following installed on your s
 
 
 ```bash
-
-git clone [https://github.com/yourusername/your-repo.git](https://github.com/Slonwer/PDV_shell.git)
-
-
-
-
-
-
-![Image Description]([https://github.com/waltenne/pdv-shell/blob/main/docs/images/project_structure.png?raw=true](https://github.com/waltenne/pdv-shell/blob/main/docs/images/project_structure.png?raw=true)https://github.com/waltenne/pdv-shell/blob/main/docs/images/project_structure.png?raw=true)
+  "MENU PRINCIPAL"
+  Adicionar Novos Produtos
+  Remover Produtos
+  Realizar Vendas
+  Exibir Vendas Diarias
+  Pesquisa de Produtos
+  Sair
